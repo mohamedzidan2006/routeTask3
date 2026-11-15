@@ -18,10 +18,15 @@ namespace routeTask3
             //Console.WriteLine(s01.Equals(s02));
             #endregion
             #region Q3
-            StringBuilder sb = new StringBuilder();
-            sb.Append("Book list");
-            sb.AppendLine("Updata");
-            Console.WriteLine(sb);
+            //StringBuilder sb = new StringBuilder();
+            //sb.Append("Book list");
+            //sb.AppendLine("Updata");
+            //Console.WriteLine(sb);
+            #endregion
+            #region Q4
+            //StringBuilder sb = new StringBuilder("bookList");
+            //sb.Replace("bookList", "library");
+            //Console.WriteLine(sb);
             #endregion
 
         }
