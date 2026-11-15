@@ -13,10 +13,17 @@ namespace routeTask3
             //Console.WriteLine(uperCase);
             #endregion
             #region Q2
-            string s01 = "clean code";
-            string s02 = "clean code";
-            Console.WriteLine(s01.Equals(s02));
+            //string s01 = "clean code";
+            //string s02 = "clean code";
+            //Console.WriteLine(s01.Equals(s02));
             #endregion
+            #region Q3
+            StringBuilder sb = new StringBuilder();
+            sb.Append("Book list");
+            sb.AppendLine("Updata");
+            Console.WriteLine(sb);
+            #endregion
+
         }
     }
 }
