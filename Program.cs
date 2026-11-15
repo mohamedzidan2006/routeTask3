@@ -6,11 +6,16 @@ namespace routeTask3
     {
         static void Main(string[] args)
         {
-            #region
-            string title = "clean code";
-            string uperCase=title.ToUpper();
-            Console.WriteLine(title);
-            Console.WriteLine(uperCase);
+            #region Q1
+            //string title = "clean code";
+            //string uperCase=title.ToUpper();
+            //Console.WriteLine(title);
+            //Console.WriteLine(uperCase);
+            #endregion
+            #region Q2
+            string s01 = "clean code";
+            string s02 = "clean code";
+            Console.WriteLine(s01.Equals(s02));
             #endregion
         }
     }
