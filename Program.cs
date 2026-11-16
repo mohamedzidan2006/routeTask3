@@ -112,6 +112,12 @@ namespace routeTask3
             //}
             //while (i < 3);
             #endregion
+            #region Q15
+            //string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };
+            //foreach (string book in books) {
+            //    Console.WriteLine(book);
+            //}
+            #endregion
 
         }
            
