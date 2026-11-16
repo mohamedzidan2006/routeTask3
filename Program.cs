@@ -1,4 +1,5 @@
-﻿using System.Text;
+﻿using System.Diagnostics;
+using System.Text;
 
 namespace routeTask3
 {
@@ -65,6 +66,20 @@ namespace routeTask3
             //}
             //else {
             //    Console.WriteLine("You can not borrow this book");
+            //}
+            #endregion
+            #region Q10
+            //string title= "Refactoring";
+            //switch (title) {
+            //    case "clean code":
+            //        Console.WriteLine("great choice");
+            //        break;
+            //    case "Refactoring":
+            //        Console.WriteLine("Nick pick");
+            //        break;
+            //    default:
+            //        Console.WriteLine("invaild choice");
+            //        break;
             //}
             #endregion
 
