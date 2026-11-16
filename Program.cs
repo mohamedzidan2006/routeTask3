@@ -82,6 +82,11 @@ namespace routeTask3
             //        break;
             //}
             #endregion
+            #region Q11
+            //int pages = 464;
+            //string sizeLable = pages > 300 ? "longBook" : "shortBook";
+            //Console.WriteLine(sizeLable);
+            #endregion
 
         }
     }
