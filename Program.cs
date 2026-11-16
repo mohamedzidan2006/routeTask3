@@ -87,6 +87,13 @@ namespace routeTask3
             //string sizeLable = pages > 300 ? "longBook" : "shortBook";
             //Console.WriteLine(sizeLable);
             #endregion
+            #region Q12
+            //string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };
+            //for (int i = 0; i < books.Length; i++)
+            //{
+            //    Console.WriteLine(books[i]);
+            //}
+            #endregion
 
         }
     }
