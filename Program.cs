@@ -103,6 +103,15 @@ namespace routeTask3
             //    i++;
             //}
             #endregion
+            #region Q14
+            //int i = 0;
+            //do
+            //{
+            //    Console.WriteLine("Checking book");
+            //    i++;
+            //}
+            //while (i < 3);
+            #endregion
 
         }
            
