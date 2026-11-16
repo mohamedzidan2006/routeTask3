@@ -138,7 +138,19 @@ namespace routeTask3
             //    Console.WriteLine((i+1)+ "." + books[i]);
             //}
             #endregion
+            #region Q18
+            //string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };
+            //void PrintFirstBook()
+            //{
+            //    if (books.Length == 0)
+            //    {
+            //        return;
+            //    }
 
+            //    Console.WriteLine(books[0]);
+            //}
+            //PrintFirstBook();
+            #endregion
         }
 
     }
