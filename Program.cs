@@ -40,6 +40,12 @@ namespace routeTask3
             //string result=$" name { title}, pages= {pages}";
             //Console.WriteLine(result);
             #endregion
+            #region Q7
+            //string title = "cleanCode";
+            //int pages=464;
+            //string result = string.Format("name {0} pages {1}", title, pages);
+            //Console.WriteLine(result);
+            #endregion
 
         }
     }
