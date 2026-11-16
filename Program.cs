@@ -28,6 +28,18 @@ namespace routeTask3
             //sb.Replace("bookList", "library");
             //Console.WriteLine(sb);
             #endregion
+            #region Q5
+            //string title = "cleanCode";
+            //int pages=464;
+            //string result="name "+ title + " \n page ="+ pages;
+            //Console.WriteLine(result);
+            #endregion
+            #region Q6
+            //string title = "cleanCode";
+            //int pages=464;
+            //string result=$" name { title}, pages= {pages}";
+            //Console.WriteLine(result);
+            #endregion
 
         }
     }
