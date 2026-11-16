@@ -56,6 +56,17 @@ namespace routeTask3
             //    Console.WriteLine("the short book");
             //}
             #endregion
+            #region Q9
+            //int pages = 464;
+            //bool isAvailable = true;
+            //if (pages > 300&& isAvailable)
+            //{
+            //    Console.WriteLine("You can borrow this book");
+            //}
+            //else {
+            //    Console.WriteLine("You can not borrow this book");
+            //}
+            #endregion
 
         }
     }
