@@ -46,6 +46,16 @@ namespace routeTask3
             //string result = string.Format("name {0} pages {1}", title, pages);
             //Console.WriteLine(result);
             #endregion
+            #region Q8
+            //int pages = 464;
+            //if (pages > 300)
+            //{
+            //    Console.WriteLine("the long book");
+            //}
+            //else {
+            //    Console.WriteLine("the short book");
+            //}
+            #endregion
 
         }
     }
